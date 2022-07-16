@@ -1,11 +1,50 @@
 body {
+    background-color: lavenderblush;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    
+    
+}
+h1 {
+    padding-top: 3%;
+}
+h4 {
+    margin: 0;
+    padding: 0;
+}
+th {
+    padding-left: 4%;
+    padding-right: 8%;
+    background-color: aliceblue;
+}
+td {
+    padding-left: 4%;
+    background-color: beige;
+}
+tr {
+    padding-right: 18%;
+       
+}
+.colorDeFondo {
+    background-color: #faebd7;
+    padding-bottom: 5%;
     padding-left: 5%;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
 }
 
-/* .botonEstilo {
-    background-color: blue;
-} */
-
+.container {
+    display: flex;
+    padding: 0;
+}
+.tareasTotalesEstilo {
+    padding-right: 4%;
+}
+.indiceTareas {
+    display: flex;
+    flex-direction: column;
+}
 .inputEstilo {
-    padding-right: 50%;
+    padding-right: 39%;
 }
+
